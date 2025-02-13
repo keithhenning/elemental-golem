@@ -1,10 +1,9 @@
-torch==2.1.0
-torchaudio==2.1.0
-safetensors==0.3.2
-sentencepiece>=0.1.97
-ninja==1.11.1
-tiktoken==0.3.3
-numpy==1.22
+torch
+torchaudio
+safetensors
+ninja
+tiktoken
+numpy
 ninja
 hvac
 pynvml
@@ -24,8 +23,9 @@ diffusers
 timm
 openai
 sseclient-py
-TTS==0.22.0
 soundfile
 exllamav2
 compel
 chardet
+sentencepiece==0.1.94
+coqui-tts
